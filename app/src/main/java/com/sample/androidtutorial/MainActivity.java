@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         //adding a new line
         //adding a second line
-        //adding third line from laptop now.
+        //deleted the third line
     }
 }
